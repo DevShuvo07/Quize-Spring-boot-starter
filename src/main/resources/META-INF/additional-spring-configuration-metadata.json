@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spring.sql.initialization-mode",
+  "type": "java.lang.String",
+  "description": "A description for 'spring.sql.initialization-mode'"
+}]}
